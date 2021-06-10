@@ -1,13 +1,3 @@
 # Khanza-Lite
-Aplikasi SIMRS Khanza Lite (Web Based)
+SIMKES Khanza versi Ringan. Jalan di sisi server sebagai aplikasi web dan bersifat mobile first (responsive)
 
-Create Database
-====================
-
-~~~~sql
-CREATE TABLE `roles` (
-  `username` varchar(60) NOT NULL,
-  `role` varchar(45) NOT NULL,
-  `cap` varchar(20) NOT NULL
-) ENGINE=InnoDB DEFAULT CHARSET=latin1;
-~~~~
